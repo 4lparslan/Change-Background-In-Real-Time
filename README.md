@@ -1,5 +1,5 @@
-# Real-Time-Change-Background
---- Change or blur your bg when using webcam ---
+#  Change Background In Real Time
+--- Change or blur your background when using webcam ---
 
 Check out my Youtube video too:
 
